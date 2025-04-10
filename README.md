@@ -62,6 +62,6 @@ ________________________________________
 
 ________________________________________
 
-📬 Contact
+📬 Project Link
 •	GitHub: https://github.com/Prashasti9/PES-PDS_EDA-Group05_Project.git
 
